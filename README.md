@@ -5,7 +5,7 @@
 20+ years building web & mobile apps. Last 2 years focused on **AI-powered apps**: conversational interfaces, AI agents, Text-to-SQL, document generation with GenAI.
 
 - 🌍 Based in Argentina · Remote-first · **Italian/EU citizenship**
-- 💬 Ask me about: Angular, Ionic, TypeScript, RxJS, Node/NestJS, Firebase, Azure, MCP, AI Agents
+- 💬 Ask me about: Angular, React, TypeScript, RxJS, Node/NestJS, Firebase, MCP, AI Agents
 
 ---
 
@@ -24,12 +24,11 @@
 ### 🛠️ Stack
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?logo=anthropic&logoColor=white)
