@@ -5,7 +5,7 @@
 20+ years building web & mobile apps. Last 2 years focused on **AI-powered apps**: conversational interfaces, AI agents, Text-to-SQL, document generation with GenAI.
 
 - 🌍 Based in Argentina · Remote-first · **Italian/EU citizenship**
-- 💬 Ask me about: Angular, React, TypeScript, RxJS, Node/NestJS, Firebase, MCP, AI Agents
+- 💬 Ask me about: Angular, React, TypeScript, RxJS, Node/NestJS, Firebase, MCP, Claude, Codex, AI Agents
 
 ---
 
@@ -32,6 +32,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ---
