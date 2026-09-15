@@ -18,7 +18,6 @@
 | [**agentwatch**](https://github.com/gyuco/agentwatch) | Live dashboard for Claude Code: monitors main agent + subagents, tool calls, skills usage in real time over SSE. Zero runtime deps. | TypeScript, Node 18+, SSE |
 | [**mcp-http-client**](https://github.com/gyuco/mcp-http-client) | MCP server that exposes any REST API (with Swagger/OpenAPI discovery + token/login auth) as MCP tools for LLMs | TypeScript, MCP, OpenAPI |
 | [**markdown-editor**](https://github.com/gyuco/markdown-editor) | Markdown editor with live preview | Angular 19, TypeScript |
-| [**language-game**](https://github.com/gyuco/language-game) | Language-learning game | Flutter / Dart |
 | [**ng-forms**](https://github.com/gyuco/ng-forms) | Reusable Angular forms library / patterns | Angular 17, TypeScript |
 
 ---
