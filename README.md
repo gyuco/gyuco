@@ -31,10 +31,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### 🤖 AI Tools
+
 ![MCP](https://img.shields.io/badge/MCP-000000?logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ---
 
