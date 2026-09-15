@@ -13,6 +13,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**maestrale**](https://github.com/gyuco/maestrale) | Marine + weather forecasts for 13 Sardinian coastal spots — FastAPI backend + Flutter app, Open-Meteo data | Python, FastAPI, Flutter |
 | [**agentwatch**](https://github.com/gyuco/agentwatch) | Live dashboard for Claude Code: monitors main agent + subagents, tool calls, skills usage in real time over SSE. Zero runtime deps. | TypeScript, Node 18+, SSE |
 | [**mcp-http-client**](https://github.com/gyuco/mcp-http-client) | MCP server that exposes any REST API (with Swagger/OpenAPI discovery + token/login auth) as MCP tools for LLMs | TypeScript, MCP, OpenAPI |
 | [**markdown-editor**](https://github.com/gyuco/markdown-editor) | Markdown editor with live preview | Angular 19, TypeScript |
