@@ -4,10 +4,6 @@
 
 20+ years building web & mobile apps. Last 2 years focused on **AI-powered apps**: conversational interfaces, AI agents, Text-to-SQL, document generation with GenAI.
 
-- 🔭 Currently **Frontend Developer @ Quanam** (remote, Uruguay)
-  - **Genera** — creation/validation of business documents with GenAI · Angular 19 + FastAPI + Azure
-  - **SmartQuery** — complex data queries via conversational AI agent (natural language → SQL)
-- 🧭 Previously **Tech Leader @ Zafirus Argentina** (2022–2024) — led Software Factory, 5+ Ionic/Angular + Firebase apps (Android/iOS + backoffice)
 - 🌍 Based in Argentina · Remote-first · **Italian/EU citizenship**
 - 💬 Ask me about: Angular, Ionic, TypeScript, RxJS, Node/NestJS, Firebase, Azure, MCP, AI Agents
 
