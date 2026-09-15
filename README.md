@@ -43,12 +43,5 @@
 
 ### 📫 Contact
 
-- 💼 LinkedIn: *(add your URL in repo Settings → About → Website, it will show here)*
+- 💼 LinkedIn: [giuseppe-concas-24748b36](https://www.linkedin.com/in/giuseppe-concas-24748b36/)
 - 🐙 Portfolio / demos: check pinned repos below 👇
-
-<!--
-TODO for Giuseppe:
-1. GitHub Profile → Edit → Website = your LinkedIn URL
-2. Pin: agentwatch, mcp-http-client, markdown-editor, language-game, ng-forms, backend
-3. Add LinkedIn URL here replacing the line above
--->
